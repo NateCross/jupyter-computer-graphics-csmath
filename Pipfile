@@ -7,6 +7,10 @@ name = "pypi"
 jupyter = "*"
 numpy = "*"
 jupyterlab = "*"
+matplotlib = "*"
+ipywidgets = "*"
+jupyter-nbextensions-configurator = "*"
+jupyter-contrib-nbextensions = "*"
 
 [dev-packages]
 
